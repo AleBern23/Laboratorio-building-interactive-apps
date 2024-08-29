@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Proyectos a Ofertar</string>
+    <string name="proyectos_ofertados">Encontrar proyectos ofertados</string>
+    <string name="no_proyecto">Proyectos no seleccionados</string>
+    <string-array name="lista_proyectos">
+        <item>Infraestructura</item>
+        <item>Recreación</item>
+    </string-array>
+
+</resources>
